@@ -1,2 +1,0 @@
-Hi, I'am Ivan
-This is my first commit
